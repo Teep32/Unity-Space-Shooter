@@ -80,7 +80,7 @@ public class GameController : MonoBehaviour {
 
     public void GameOver()
     {
-        gameOverText.text = "GAME OVER BIDIDIIIIHH";
+        gameOverText.text = "GAME SET MATCH";
         gameOver = true;
     }
 }
