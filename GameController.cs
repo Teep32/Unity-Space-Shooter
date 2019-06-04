@@ -61,7 +61,7 @@ public class GameController : MonoBehaviour {
 
             if (gameOver)
             {
-                restartText.text = "Press 'R' for Restart!";
+                restartText.text = "Press 'R' for Restart Jabroni!";
                 restart = true;
                 break;
             }
@@ -80,7 +80,7 @@ public class GameController : MonoBehaviour {
 
     public void GameOver()
     {
-        gameOverText.text = "GAME OVER BIHH";
+        gameOverText.text = "GAME OVER BIDIDIIIIHH";
         gameOver = true;
     }
 }
